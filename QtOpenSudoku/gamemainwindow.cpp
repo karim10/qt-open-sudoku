@@ -1,3 +1,5 @@
+/* Written by dev.1one.w01f */
+
 #include "gamemainwindow.h"
 #include "ui_gamemainwindow.h"
 
