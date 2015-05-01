@@ -1,0 +1,1 @@
+An open-source crossplatform Qt/C++ implementation of the Sudoku game.
